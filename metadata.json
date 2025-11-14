@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Asset Predictor",
+  "description": "An AI-powered financial dashboard that uses an ensemble of simulated pricing models to predict asset closing prices based on historical data and supply/demand indicators.",
+  "requestFramePermissions": []
+}
